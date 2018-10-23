@@ -9,8 +9,8 @@
         <module name="DOM4J_test" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="DOM4J_test" target="1.5" />
+    <bytecodeTargetLevel target="11">
+      <module name="DOM4J_test" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

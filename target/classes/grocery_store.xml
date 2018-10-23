@@ -1,0 +1,18 @@
+<?xml version = "1.0"?>
+
+<groceries>
+   <vegetables>
+         <vegetable price="4.10">cucumber</vegetable>
+         <vegetable price="3.80">tomato</vegetable>
+   </vegetables>
+   <legumes>
+      <bean/>
+      <lentils/>
+   </legumes>
+   <drinks>
+      <beer>
+         <name>Tyskie</name>
+         <price>2.80</price>
+      </beer>
+   </drinks>
+</groceries>
